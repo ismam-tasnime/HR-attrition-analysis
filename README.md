@@ -62,9 +62,10 @@ Main fields used in the analysis:
 ---
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![HR Attrition Dashboard](dashboard/HRATDA.png)
 
 ---
+
 
 ## Key Performance Indicators
 
