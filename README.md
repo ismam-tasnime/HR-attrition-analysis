@@ -62,7 +62,7 @@ Main fields used in the analysis:
 ---
 ## Dashboard Preview
 
-![HR Attrition analysis Dashboard](dashboard/HR_ATDA.png)
+![HR Attrition Analysis Dashboard](dashboard/HR%20ATDA.png)
 
 ---
 
