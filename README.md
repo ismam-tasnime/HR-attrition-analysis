@@ -62,7 +62,7 @@ Main fields used in the analysis:
 ---
 ## Dashboard Preview
 
-![HR Attrition Dashboard](dashboard/HRATDA.png)
+![HR Attrition Dashboard](dashboard/HR-ATDA.png)
 
 ---
 
@@ -85,7 +85,6 @@ These KPIs provide a quick executive-level view of workforce stability and emplo
 
 ---
 
-## Workbook Structure
 
 The Excel workbook contains multiple sheets for data analysis and dashboard building.
 
