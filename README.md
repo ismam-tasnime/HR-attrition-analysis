@@ -3,8 +3,7 @@ HR Attrition Dashboard developed in Power BI to analyze employee turnover trends
 
 ## Project Overview
 
-This project is an interactive *HR Attrition Analysis Dashboard* built in Microsoft Excel to analyze employee attrition patterns across different workforce dimensions. The objective of this project was to help HR management understand why employees are leaving, which departments and job roles have higher attrition, and what workforce factors may be connected with employee turnover.
-
+This project is an interactive built in Microsoft Excel to analyze employee attrition patterns across different workforce dimensions. The objective of this project was to help HR management understand why employees are leaving, which departments and job roles have higher attrition, and what workforce factors may be connected with employee turnover.
 The project was developed using raw HR employee data, Pivot Tables, Pivot Charts, slicers, KPI cards, and dashboard visuals. The final dashboard gives a complete overview of employee attrition by gender, department, education field, job role, age group, training times, performance rating, average salary, and average salary hike. This dashboard is designed from a business analyst perspective, where the focus is not only on showing numbers but also on identifying workforce risk areas and recommending practical HR solutions.
 
 ---
@@ -60,7 +59,7 @@ Main fields used in the analysis:
 - Years With Current Manager
 
 ---
-## Dashboard Preview
+## Dashboard
 
 ![HR Attrition Analysis Dashboard](dashboard/HR%20ATDA.png)
 
