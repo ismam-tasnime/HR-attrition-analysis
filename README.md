@@ -62,7 +62,7 @@ Main fields used in the analysis:
 ---
 ## Dashboard Preview
 
-![HR Attrition Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
