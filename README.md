@@ -72,13 +72,13 @@ The dashboard includes the following main HR KPIs:
 
 | KPI | Value |
 |---|---:|
-| Total Employees | 1,470 |
-| Active Employees | 1,233 |
-| Attrition Employees | 237 |
-| Attrition Rate | 16.12% |
-| Average Age | 36.92 years |
+| Total Employees | 1,233 |
+| Active Employees | 189 |
+| Attrition Employees | 37 |
+| Attrition Rate | 19% |
+| Average Age | 37 years |
 | Average Monthly Income | 6,502.93 |
-| Average Percent Salary Hike | 15.21% |
+| Average Percent Salary Hike | 41% |
 
 These KPIs provide a quick executive-level view of workforce stability and employee retention performance.
 
